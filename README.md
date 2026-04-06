@@ -1,4 +1,4 @@
-# HAR Viewer
+# HAR + Charles Viewer
 
 A fully vibecoded app for sneaker botting utilities. I don't care about the code quality - it just needs to speed up some repetitive tasks.
 
