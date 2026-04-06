@@ -4,7 +4,7 @@ A fully vibecoded app for sneaker botting utilities. I don't care about the code
 
 ## Features
 
-- Load HAR files (JSON or gzipped)
+- Load HAR or Charles files (JSON or gzipped)
 - Filter requests by host, method, and status
 - Search across all request data (URLs, headers, bodies)
 - View request/response details:
